@@ -57,7 +57,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Contributors
 - [Peter Odekwo](https://github.com/pitaz)
-- [Oluwajuwon Fagbehungbe](https://github.com/oluwajuwon)
+- [Oluwajuwon Fagbohungbe](https://github.com/oluwajuwon)
 - [Henry Pereowei](https://github.com/henperi)
 - [Chukwunonso Okonji](https://github.com/davidokonji)
 
