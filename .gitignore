@@ -33,3 +33,6 @@ coverage
 !.vscode/launch.json
 !.vscode/extensions.json
 
+#schema
+schema.gql
+
